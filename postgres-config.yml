@@ -5,4 +5,4 @@ metadata: #el nombre en la metadata habla sobre la referrencia global en el sist
 data:
   DB_NAME: postgres
   DB_HOST: postgres-service   
-  DB_POST: "5432"
+  DB_PORT: "5432"
